@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://anaisbelladone.github.io/AnaisWebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://anaisbelladone.github.io/AnaisWebsite/</loc>
+</url>
+<url>
+<loc>https://anaisbelladone.github.io/AnaisWebsite/contact-me/</loc>
+<lastmod>2026-02-21T01:54:54-05:00</lastmod>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/4/sketch-1761942576157.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://anaisbelladone.github.io/AnaisWebsite/homepage/</loc>
+<lastmod>2026-02-21T01:23:24-05:00</lastmod>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/2/4.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://anaisbelladone.github.io/AnaisWebsite/post-test/</loc>
+<lastmod>2026-02-20T22:51:00-05:00</lastmod>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/3/gallery/Slutopia-Cybersec-Anais-photo-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/3/gallery/sketch-1769965882713-LD-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/3/gallery/sketch-1769879020414-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/3/gallery/sketch-1769842658415-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://anaisbelladone.github.io/AnaisWebsite/media/posts/3/gallery/sketch-1763003950723-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
